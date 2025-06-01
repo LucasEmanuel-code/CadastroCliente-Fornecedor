@@ -1,0 +1,11 @@
+C:\Users\sandr\OneDrive\Área de Trabalho\Lucas\Code\HelloWorld\Componentes.cs\bin\Debug\net8.0\Componentes.cs.deps.json
+C:\Users\sandr\OneDrive\Área de Trabalho\Lucas\Code\HelloWorld\Componentes.cs\bin\Debug\net8.0\Componentes.cs.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\Lucas\Code\HelloWorld\Componentes.cs\bin\Debug\net8.0\Componentes.cs.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\Lucas\Code\HelloWorld\Componentes.cs\obj\Debug\net8.0\Componentes.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\OneDrive\Área de Trabalho\Lucas\Code\HelloWorld\Componentes.cs\obj\Debug\net8.0\Componentes.cs.AssemblyInfoInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\Lucas\Code\HelloWorld\Componentes.cs\obj\Debug\net8.0\Componentes.cs.AssemblyInfo.cs
+C:\Users\sandr\OneDrive\Área de Trabalho\Lucas\Code\HelloWorld\Componentes.cs\obj\Debug\net8.0\Componentes.cs.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive\Área de Trabalho\Lucas\Code\HelloWorld\Componentes.cs\obj\Debug\net8.0\Componentes.cs.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\Lucas\Code\HelloWorld\Componentes.cs\obj\Debug\net8.0\refint\Componentes.cs.dll
+C:\Users\sandr\OneDrive\Área de Trabalho\Lucas\Code\HelloWorld\Componentes.cs\obj\Debug\net8.0\Componentes.cs.pdb
+C:\Users\sandr\OneDrive\Área de Trabalho\Lucas\Code\HelloWorld\Componentes.cs\obj\Debug\net8.0\ref\Componentes.cs.dll

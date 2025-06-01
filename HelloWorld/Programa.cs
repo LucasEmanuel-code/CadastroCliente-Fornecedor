@@ -16,6 +16,7 @@ namespace Helloword
         static void Main(string[] args)
         {
             Menu.Criar();
+
         }
     }
 }

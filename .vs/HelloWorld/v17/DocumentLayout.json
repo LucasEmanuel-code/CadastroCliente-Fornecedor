@@ -1,0 +1,329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sandr\\OneDrive\\\u00C1rea de Trabalho\\Lucas\\Code\\HelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D780D231-7FDD-4B42-8E56-2C9CEFDD5B83}|HelloWorld\\HelloWorld.csproj|c:\\users\\sandr\\onedrive\\\u00E1rea de trabalho\\lucas\\code\\helloworld\\helloworld\\funcoes\\telacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D780D231-7FDD-4B42-8E56-2C9CEFDD5B83}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\funcoes\\telacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D780D231-7FDD-4B42-8E56-2C9CEFDD5B83}|HelloWorld\\HelloWorld.csproj|c:\\users\\sandr\\onedrive\\\u00E1rea de trabalho\\lucas\\code\\helloworld\\helloworld\\classes\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D780D231-7FDD-4B42-8E56-2C9CEFDD5B83}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\classes\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D780D231-7FDD-4B42-8E56-2C9CEFDD5B83}|HelloWorld\\HelloWorld.csproj|c:\\users\\sandr\\onedrive\\\u00E1rea de trabalho\\lucas\\code\\helloworld\\helloworld\\classes\\ipessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D780D231-7FDD-4B42-8E56-2C9CEFDD5B83}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\classes\\ipessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D780D231-7FDD-4B42-8E56-2C9CEFDD5B83}|HelloWorld\\HelloWorld.csproj|c:\\users\\sandr\\onedrive\\\u00E1rea de trabalho\\lucas\\code\\helloworld\\helloworld\\classes\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D780D231-7FDD-4B42-8E56-2C9CEFDD5B83}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\classes\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D780D231-7FDD-4B42-8E56-2C9CEFDD5B83}|HelloWorld\\HelloWorld.csproj|c:\\users\\sandr\\onedrive\\\u00E1rea de trabalho\\lucas\\code\\helloworld\\helloworld\\funcoes\\telausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D780D231-7FDD-4B42-8E56-2C9CEFDD5B83}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\funcoes\\telausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D780D231-7FDD-4B42-8E56-2C9CEFDD5B83}|HelloWorld\\HelloWorld.csproj|c:\\users\\sandr\\onedrive\\\u00E1rea de trabalho\\lucas\\code\\helloworld\\helloworld\\classes\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D780D231-7FDD-4B42-8E56-2C9CEFDD5B83}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\classes\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D780D231-7FDD-4B42-8E56-2C9CEFDD5B83}|HelloWorld\\HelloWorld.csproj|c:\\users\\sandr\\onedrive\\\u00E1rea de trabalho\\lucas\\code\\helloworld\\helloworld\\funcoes\\telafornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D780D231-7FDD-4B42-8E56-2C9CEFDD5B83}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\funcoes\\telafornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D780D231-7FDD-4B42-8E56-2C9CEFDD5B83}|HelloWorld\\HelloWorld.csproj|c:\\users\\sandr\\onedrive\\\u00E1rea de trabalho\\lucas\\code\\helloworld\\helloworld\\programa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D780D231-7FDD-4B42-8E56-2C9CEFDD5B83}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\programa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D780D231-7FDD-4B42-8E56-2C9CEFDD5B83}|HelloWorld\\HelloWorld.csproj|c:\\users\\sandr\\onedrive\\\u00E1rea de trabalho\\lucas\\code\\helloworld\\helloworld\\classes\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D780D231-7FDD-4B42-8E56-2C9CEFDD5B83}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\classes\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D780D231-7FDD-4B42-8E56-2C9CEFDD5B83}|HelloWorld\\HelloWorld.csproj|c:\\users\\sandr\\onedrive\\\u00E1rea de trabalho\\lucas\\code\\helloworld\\helloworld\\classes\\cachorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D780D231-7FDD-4B42-8E56-2C9CEFDD5B83}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\classes\\cachorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D780D231-7FDD-4B42-8E56-2C9CEFDD5B83}|HelloWorld\\HelloWorld.csproj|c:\\users\\sandr\\onedrive\\\u00E1rea de trabalho\\lucas\\code\\helloworld\\helloworld\\tela\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D780D231-7FDD-4B42-8E56-2C9CEFDD5B83}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\tela\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D780D231-7FDD-4B42-8E56-2C9CEFDD5B83}|HelloWorld\\HelloWorld.csproj|c:\\users\\sandr\\onedrive\\\u00E1rea de trabalho\\lucas\\code\\helloworld\\helloworld\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D780D231-7FDD-4B42-8E56-2C9CEFDD5B83}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D780D231-7FDD-4B42-8E56-2C9CEFDD5B83}|HelloWorld\\HelloWorld.csproj|c:\\users\\sandr\\onedrive\\\u00E1rea de trabalho\\lucas\\code\\helloworld\\helloworld\\funcoes\\gerais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D780D231-7FDD-4B42-8E56-2C9CEFDD5B83}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\funcoes\\gerais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D780D231-7FDD-4B42-8E56-2C9CEFDD5B83}|HelloWorld\\HelloWorld.csproj|c:\\users\\sandr\\onedrive\\\u00E1rea de trabalho\\lucas\\code\\helloworld\\helloworld\\funcoes\\tabuada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D780D231-7FDD-4B42-8E56-2C9CEFDD5B83}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\funcoes\\tabuada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D780D231-7FDD-4B42-8E56-2C9CEFDD5B83}|HelloWorld\\HelloWorld.csproj|c:\\users\\sandr\\onedrive\\\u00E1rea de trabalho\\lucas\\code\\helloworld\\helloworld\\diret\u00F3rio\\arquivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D780D231-7FDD-4B42-8E56-2C9CEFDD5B83}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\diret\u00F3rio\\arquivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D780D231-7FDD-4B42-8E56-2C9CEFDD5B83}|HelloWorld\\HelloWorld.csproj|c:\\users\\sandr\\onedrive\\\u00E1rea de trabalho\\lucas\\code\\helloworld\\helloworld\\classes\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D780D231-7FDD-4B42-8E56-2C9CEFDD5B83}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\classes\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D780D231-7FDD-4B42-8E56-2C9CEFDD5B83}|HelloWorld\\HelloWorld.csproj|c:\\users\\sandr\\onedrive\\\u00E1rea de trabalho\\lucas\\code\\helloworld\\helloworld\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D780D231-7FDD-4B42-8E56-2C9CEFDD5B83}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0498A30A-BBBD-4E6B-A612-67717393BF1C}|Componentes.cs\\Componentes.cs.csproj|c:\\users\\sandr\\onedrive\\\u00E1rea de trabalho\\lucas\\code\\helloworld\\componentes.cs\\ferramentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0498A30A-BBBD-4E6B-A612-67717393BF1C}|Componentes.cs\\Componentes.cs.csproj|solutionrelative:componentes.cs\\ferramentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 95,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fornecedor.cs",
+              "DocumentMoniker": "C:\\Users\\sandr\\OneDrive\\\u00C1rea de Trabalho\\Lucas\\Code\\HelloWorld\\HelloWorld\\Classes\\Fornecedor.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\Classes\\Fornecedor.cs",
+              "ToolTip": "C:\\Users\\sandr\\OneDrive\\\u00C1rea de Trabalho\\Lucas\\Code\\HelloWorld\\HelloWorld\\Classes\\Fornecedor.cs",
+              "RelativeToolTip": "HelloWorld\\Classes\\Fornecedor.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAywBsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T19:51:58.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Users\\sandr\\OneDrive\\\u00C1rea de Trabalho\\Lucas\\Code\\HelloWorld\\HelloWorld\\Classes\\Email.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\Classes\\Email.cs",
+              "ToolTip": "C:\\Users\\sandr\\OneDrive\\\u00C1rea de Trabalho\\Lucas\\Code\\HelloWorld\\HelloWorld\\Classes\\Email.cs",
+              "RelativeToolTip": "HelloWorld\\Classes\\Email.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T19:38:38.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TelaUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\sandr\\OneDrive\\\u00C1rea de Trabalho\\Lucas\\Code\\HelloWorld\\HelloWorld\\Funcoes\\TelaUsuario.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\Funcoes\\TelaUsuario.cs",
+              "ToolTip": "C:\\Users\\sandr\\OneDrive\\\u00C1rea de Trabalho\\Lucas\\Code\\HelloWorld\\HelloWorld\\Funcoes\\TelaUsuario.cs",
+              "RelativeToolTip": "HelloWorld\\Funcoes\\TelaUsuario.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAgwI8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T00:58:59.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TelaFornecedor.cs",
+              "DocumentMoniker": "C:\\Users\\sandr\\OneDrive\\\u00C1rea de Trabalho\\Lucas\\Code\\HelloWorld\\HelloWorld\\Funcoes\\TelaFornecedor.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\Funcoes\\TelaFornecedor.cs",
+              "ToolTip": "C:\\Users\\sandr\\OneDrive\\\u00C1rea de Trabalho\\Lucas\\Code\\HelloWorld\\HelloWorld\\Funcoes\\TelaFornecedor.cs",
+              "RelativeToolTip": "HelloWorld\\Funcoes\\TelaFornecedor.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAGwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T23:41:30.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\sandr\\OneDrive\\\u00C1rea de Trabalho\\Lucas\\Code\\HelloWorld\\HelloWorld\\Classes\\Usuario.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\Classes\\Usuario.cs",
+              "ToolTip": "C:\\Users\\sandr\\OneDrive\\\u00C1rea de Trabalho\\Lucas\\Code\\HelloWorld\\HelloWorld\\Classes\\Usuario.cs",
+              "RelativeToolTip": "HelloWorld\\Classes\\Usuario.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T21:41:53.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cachorro.cs",
+              "DocumentMoniker": "C:\\Users\\sandr\\OneDrive\\\u00C1rea de Trabalho\\Lucas\\Code\\HelloWorld\\HelloWorld\\Classes\\Cachorro.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\Classes\\Cachorro.cs",
+              "ToolTip": "C:\\Users\\sandr\\OneDrive\\\u00C1rea de Trabalho\\Lucas\\Code\\HelloWorld\\HelloWorld\\Classes\\Cachorro.cs",
+              "RelativeToolTip": "HelloWorld\\Classes\\Cachorro.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:55:31.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Programa.cs",
+              "DocumentMoniker": "C:\\Users\\sandr\\OneDrive\\\u00C1rea de Trabalho\\Lucas\\Code\\HelloWorld\\HelloWorld\\Programa.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\Programa.cs",
+              "ToolTip": "C:\\Users\\sandr\\OneDrive\\\u00C1rea de Trabalho\\Lucas\\Code\\HelloWorld\\HelloWorld\\Programa.cs",
+              "RelativeToolTip": "HelloWorld\\Programa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T23:59:27.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\sandr\\OneDrive\\\u00C1rea de Trabalho\\Lucas\\Code\\HelloWorld\\HelloWorld\\Tela\\Menu.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\Tela\\Menu.cs",
+              "ToolTip": "C:\\Users\\sandr\\OneDrive\\\u00C1rea de Trabalho\\Lucas\\Code\\HelloWorld\\HelloWorld\\Tela\\Menu.cs",
+              "RelativeToolTip": "HelloWorld\\Tela\\Menu.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T16:39:59.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPessoa.cs",
+              "DocumentMoniker": "C:\\Users\\sandr\\OneDrive\\\u00C1rea de Trabalho\\Lucas\\Code\\HelloWorld\\HelloWorld\\Classes\\IPessoa.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\Classes\\IPessoa.cs",
+              "ToolTip": "C:\\Users\\sandr\\OneDrive\\\u00C1rea de Trabalho\\Lucas\\Code\\HelloWorld\\HelloWorld\\Classes\\IPessoa.cs",
+              "RelativeToolTip": "HelloWorld\\Classes\\IPessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T16:39:31.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\sandr\\OneDrive\\\u00C1rea de Trabalho\\Lucas\\Code\\HelloWorld\\HelloWorld\\App.config",
+              "RelativeDocumentMoniker": "HelloWorld\\App.config",
+              "ToolTip": "C:\\Users\\sandr\\OneDrive\\\u00C1rea de Trabalho\\Lucas\\Code\\HelloWorld\\HelloWorld\\App.config",
+              "RelativeToolTip": "HelloWorld\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-29T16:25:59.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Gerais.cs",
+              "DocumentMoniker": "C:\\Users\\sandr\\OneDrive\\\u00C1rea de Trabalho\\Lucas\\Code\\HelloWorld\\HelloWorld\\Funcoes\\Gerais.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\Funcoes\\Gerais.cs",
+              "ToolTip": "C:\\Users\\sandr\\OneDrive\\\u00C1rea de Trabalho\\Lucas\\Code\\HelloWorld\\HelloWorld\\Funcoes\\Gerais.cs",
+              "RelativeToolTip": "HelloWorld\\Funcoes\\Gerais.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T15:12:16.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Tabuada.cs",
+              "DocumentMoniker": "C:\\Users\\sandr\\OneDrive\\\u00C1rea de Trabalho\\Lucas\\Code\\HelloWorld\\HelloWorld\\Funcoes\\Tabuada.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\Funcoes\\Tabuada.cs",
+              "ToolTip": "C:\\Users\\sandr\\OneDrive\\\u00C1rea de Trabalho\\Lucas\\Code\\HelloWorld\\HelloWorld\\Funcoes\\Tabuada.cs",
+              "RelativeToolTip": "HelloWorld\\Funcoes\\Tabuada.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T15:11:57.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Arquivo.cs",
+              "DocumentMoniker": "C:\\Users\\sandr\\OneDrive\\\u00C1rea de Trabalho\\Lucas\\Code\\HelloWorld\\HelloWorld\\DIret\u00F3rio\\Arquivo.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\DIret\u00F3rio\\Arquivo.cs",
+              "ToolTip": "C:\\Users\\sandr\\OneDrive\\\u00C1rea de Trabalho\\Lucas\\Code\\HelloWorld\\HelloWorld\\DIret\u00F3rio\\Arquivo.cs",
+              "RelativeToolTip": "HelloWorld\\DIret\u00F3rio\\Arquivo.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T15:09:36.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\sandr\\OneDrive\\\u00C1rea de Trabalho\\Lucas\\Code\\HelloWorld\\HelloWorld\\Classes\\Animal.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\Classes\\Animal.cs",
+              "ToolTip": "C:\\Users\\sandr\\OneDrive\\\u00C1rea de Trabalho\\Lucas\\Code\\HelloWorld\\HelloWorld\\Classes\\Animal.cs",
+              "RelativeToolTip": "HelloWorld\\Classes\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T15:09:03.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Base.cs",
+              "DocumentMoniker": "C:\\Users\\sandr\\OneDrive\\\u00C1rea de Trabalho\\Lucas\\Code\\HelloWorld\\HelloWorld\\Classes\\Base.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\Classes\\Base.cs",
+              "ToolTip": "C:\\Users\\sandr\\OneDrive\\\u00C1rea de Trabalho\\Lucas\\Code\\HelloWorld\\HelloWorld\\Classes\\Base.cs",
+              "RelativeToolTip": "HelloWorld\\Classes\\Base.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T15:09:02.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\sandr\\OneDrive\\\u00C1rea de Trabalho\\Lucas\\Code\\HelloWorld\\HelloWorld\\.gitignore",
+              "RelativeDocumentMoniker": "HelloWorld\\.gitignore",
+              "ToolTip": "C:\\Users\\sandr\\OneDrive\\\u00C1rea de Trabalho\\Lucas\\Code\\HelloWorld\\HelloWorld\\.gitignore",
+              "RelativeToolTip": "HelloWorld\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-29T01:08:54.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Ferramentas.cs",
+              "DocumentMoniker": "C:\\Users\\sandr\\OneDrive\\\u00C1rea de Trabalho\\Lucas\\Code\\HelloWorld\\Componentes.cs\\Ferramentas.cs",
+              "RelativeDocumentMoniker": "Componentes.cs\\Ferramentas.cs",
+              "ToolTip": "C:\\Users\\sandr\\OneDrive\\\u00C1rea de Trabalho\\Lucas\\Code\\HelloWorld\\Componentes.cs\\Ferramentas.cs",
+              "RelativeToolTip": "Componentes.cs\\Ferramentas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T01:04:31.679Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 95,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TelaCliente.cs",
+              "DocumentMoniker": "C:\\Users\\sandr\\OneDrive\\\u00C1rea de Trabalho\\Lucas\\Code\\HelloWorld\\HelloWorld\\Funcoes\\TelaCliente.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\Funcoes\\TelaCliente.cs",
+              "ToolTip": "C:\\Users\\sandr\\OneDrive\\\u00C1rea de Trabalho\\Lucas\\Code\\HelloWorld\\HelloWorld\\Funcoes\\TelaCliente.cs",
+              "RelativeToolTip": "HelloWorld\\Funcoes\\TelaCliente.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAswIMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T16:39:37.88Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
